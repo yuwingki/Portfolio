@@ -4,7 +4,7 @@ The goal of this page is to document the results and learning of my projects and
 # [Project 1: Children Hospital Health Dashboard](https://github.com/yuwingki/Children-Hospital-Dashboard)
 This is my capstone project that collaborated with two other students in the program, Himmie Lau and Devansh Saxena. Our goal was to develop an interactive health dashboard for the Pediatric Cardiology Dyslipidemia Clinic, aiming at enhancing patient and parent engagement in health management. I contributed majorly to data analysis and data visualization, including developing data pipelines to clean raw de-identified patient data using Python, building the scoring system, and visualizing data using Tableau.
 
-# [Project 2: Data Mining Techniques](https://github.com/yuwingki/House-Prices](https://github.com/yuwingki/IS6482-Data-Mining)
+# [Project 2: Data Mining Techniques](https://github.com/yuwingki/IS6482-Data-Mining)
 To showcase data mining techniques using R: classification, numeric prediction, clustering, and association rule mining.
 
 # [Project 3: Java Programming 8th by Joyce Farrell Exercises](https://github.com/yuwingki/Java-Programming-8th-Ex)
