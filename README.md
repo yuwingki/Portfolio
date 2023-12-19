@@ -4,8 +4,8 @@ The goal of this page is to document the results and learning of my projects and
 # [Project 1: Children Hospital Health Dashboard](https://github.com/yuwingki/Children-Hospital-Dashboard)
 This is my capstone project that collaborated with two other students in the program, Himmie Lau and Devansh Saxena. Our goal was to develop an interactive health dashboard for the Pediatric Cardiology Dyslipidemia Clinic, aiming at enhancing patient and parent engagement in health management. I contributed majorly to data analysis and data visualization, including developing data pipelines to clean raw de-identified patient data using Python, building the scoring system, and visualizing data using Tableau.
 
-# [Project 2: Kaggle Housing Price Prediction](https://github.com/yuwingki/House-Prices)
-* first school project doing Regression Analysis using R
+# [Project 2: Data Mining Techniques](https://github.com/yuwingki/House-Prices](https://github.com/yuwingki/IS6482-Data-Mining)
+To showcase data mining techniques using R: classification, numeric prediction, clustering, and association rule mining.
 
 # [Project 3: Java Programming 8th by Joyce Farrell Exercises](https://github.com/yuwingki/Java-Programming-8th-Ex)
 This is a compilation of the solutions written to the programming exercises found in the book. The exercises cover topics such as variables, classes, objects, control-flow statements, and basic Java syntax. At the end of practices, I was able to:
@@ -15,9 +15,6 @@ This is a compilation of the solutions written to the programming exercises foun
 * Be familiar with a number of important computer algorithms using those structures.
 * Understand how to implement data structures and algorithms using different techniques.
 * Convert a business process into the data structures and algorithms required to model it.
-
-
-I will be updating here to talk about projects that cover classification, regression, clustering, and deep learning.
 
 # References Used to Create the Page
 * Here is the [Youtube video](https://www.youtube.com/watch?v=1aXk2RViq3c) that has provided me with a lot of help in building the foundation for my portfolio. I definitely recommend their channel. Aside from building a portfolio, it also gave helpful and up-to-date tips for becoming a successful data scientist.
