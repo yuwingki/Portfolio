@@ -16,6 +16,7 @@ This is a compilation of the solutions written to the programming exercises foun
 * Understand how to implement data structures and algorithms using different techniques.
 * Convert a business process into the data structures and algorithms required to model it.
 
+
 I will be updating here to talk about projects that cover classification, regression, clustering, and deep learning.
 
 # References Used to Create the Page
