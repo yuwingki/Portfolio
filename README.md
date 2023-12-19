@@ -1,4 +1,4 @@
-# Portfolio
+# WingKi's Portfolio
 The goal of this page is to document the results and learning of my projects and activities.
 
 # [Project 1: Children Hospital Health Dashboard](https://github.com/yuwingki/Children-Hospital-Dashboard)
