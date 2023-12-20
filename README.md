@@ -20,7 +20,7 @@ This is a compilation of the solutions written to the programming exercises foun
 * Convert a business process into the data structures and algorithms required to model it.
 
 # [Project 5: 2023 Super Bowl Game Day Analytics Challenge](https://www.linkedin.com/posts/wingki-yu_about-two-months-ago-himmie-tszhim-lau-and-activity-7056703254834917376-OcD8?utm_source=share&utm_medium=member_desktop)
-(https://github.com/yuwingki/Portfolio/blob/main/image/1682449161974.jpeg)
+[](https://github.com/yuwingki/Portfolio/blob/main/image/1682449161974.jpeg)
 * Performed voice comparison and estimated the Return On Ad Spend (ROAS) of Super Bowl advertisements
 
 # References Used to Create the Page
