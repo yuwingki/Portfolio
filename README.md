@@ -10,7 +10,7 @@ To showcase data mining techniques using R: classification, numeric prediction, 
 # [Project 3: Big Data Techniques](https://github.com/yuwingki/Big-Data-Techniques)
 This repository will cover practices that use parallel or distributed computing, a fundamental solution in handling big data. Specifically, I focused on the Apache Spark cloud platform that provides commoditized cluster computing. I also used the PySpark interface to solve common data science tasks, including descriptive analytics of static and streaming data and predictive modeling for big data.
 
-# [Project 4: SQL Exercises](https://github.com/yuwingki/Big-Data-Techniques](https://github.com/yuwingki/SQL-Ex)
+# [Project 4: SQL Exercises](https://github.com/yuwingki/SQL-Ex/tree/master)
 To demonstrate understanding of advanced SQL functions: CTE and nested data, windows, non-equi joins, and table expansions.
 
 # [Project 5: Java Programming 8th by Joyce Farrell Exercises](https://github.com/yuwingki/Java-Programming-8th-Ex)
