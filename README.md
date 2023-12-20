@@ -10,7 +10,10 @@ To showcase data mining techniques using R: classification, numeric prediction, 
 # [Project 3: Big Data Techniques](https://github.com/yuwingki/Big-Data-Techniques)
 This repository will cover practices that use parallel or distributed computing, a fundamental solution in handling big data. Specifically, I focused on the Apache Spark cloud platform that provides commoditized cluster computing. I also used the PySpark interface to solve common data science tasks, including descriptive analytics of static and streaming data and predictive modeling for big data.
 
-# [Project 4: Java Programming 8th by Joyce Farrell Exercises](https://github.com/yuwingki/Java-Programming-8th-Ex)
+# [Project 4: SQL Exercises](https://github.com/yuwingki/Big-Data-Techniques](https://github.com/yuwingki/SQL-Ex)
+To demonstrate understanding of advanced SQL functions: CTE and nested data, windows, non-equi joins, and table expansions.
+
+# [Project 5: Java Programming 8th by Joyce Farrell Exercises](https://github.com/yuwingki/Java-Programming-8th-Ex)
 This is a compilation of the solutions written to the programming exercises found in the book. The exercises cover topics such as variables, classes, objects, control-flow statements, and basic Java syntax. At the end of practices, I was able to:
 * Describe the role of data structures and algorithms in programming.
 * Describe basic data types and more evolved structures in which data can be stored.
@@ -19,7 +22,7 @@ This is a compilation of the solutions written to the programming exercises foun
 * Understand how to implement data structures and algorithms using different techniques.
 * Convert a business process into the data structures and algorithms required to model it.
 
-# [Project 5: 2023 Super Bowl Game Day Analytics Challenge](https://www.linkedin.com/posts/wingki-yu_about-two-months-ago-himmie-tszhim-lau-and-activity-7056703254834917376-OcD8?utm_source=share&utm_medium=member_desktop)
+# [Project 6: 2023 Super Bowl Game Day Analytics Challenge](https://www.linkedin.com/posts/wingki-yu_about-two-months-ago-himmie-tszhim-lau-and-activity-7056703254834917376-OcD8?utm_source=share&utm_medium=member_desktop)
 ![](https://github.com/yuwingki/Portfolio/blob/main/image/1682449161974.jpeg)
 * Performed voice comparison and estimated the Return On Ad Spend (ROAS) of Super Bowl advertisements
 
