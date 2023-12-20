@@ -1,8 +1,8 @@
 # WingKi's Portfolio
-The goal of this page is to document the results and learning of my projects and activities.
+This page aims to document the results and learning of my projects and activities.
 
 # [Project 1: Children Hospital Health Dashboard](https://github.com/yuwingki/Children-Hospital-Dashboard)
-This is my capstone project that collaborated with two other students in the program, Himmie Lau and Devansh Saxena. Our goal was to develop an interactive health dashboard for the Pediatric Cardiology Dyslipidemia Clinic, aiming at enhancing patient and parent engagement in health management. I contributed majorly to data analysis and data visualization, including developing data pipelines to clean raw de-identified patient data using Python, building the scoring system, and visualizing data using Tableau.
+This is my capstone project, which I collaborated on with two other students in the program, Himmie Lau and Devansh Saxena. Our goal was to develop an interactive health dashboard for the Pediatric Cardiology Dyslipidemia Clinic to enhance patient and parent engagement in health management. I contributed majorly to data analysis and data visualization, including developing data pipelines to clean raw de-identified patient data using Python, building the scoring system, and visualizing data using Tableau.
 
 # [Project 2: Data Mining Techniques](https://github.com/yuwingki/IS6482-Data-Mining)
 To showcase data mining techniques using R: classification, numeric prediction, clustering, and association rule mining.
@@ -18,6 +18,9 @@ This is a compilation of the solutions written to the programming exercises foun
 * Be familiar with a number of important computer algorithms using those structures.
 * Understand how to implement data structures and algorithms using different techniques.
 * Convert a business process into the data structures and algorithms required to model it.
+
+# [Project 5: 2023 Super Bowl Game Day Analytics Challenge](https://www.linkedin.com/posts/wingki-yu_about-two-months-ago-himmie-tszhim-lau-and-activity-7056703254834917376-OcD8?utm_source=share&utm_medium=member_desktop)
+About of 7M data scrapped from Twitter, Performed voice comparison and estimated the Return On Ad Spend (ROAS) using data scrapped from Twitter
 
 # References Used to Create the Page
 * Here is the [Youtube video](https://www.youtube.com/watch?v=1aXk2RViq3c) that has provided me with a lot of help in building the foundation for my portfolio. I definitely recommend their channel. Aside from building a portfolio, it also gave helpful and up-to-date tips for becoming a successful data scientist.
